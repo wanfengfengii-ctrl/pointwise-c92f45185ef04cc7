@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "packet_id": "legacy-rig07-004-bc",
+  "recording_id": "rig07-run004",
+  "edition_id": "original:rig07-run004",
+  "window": [20, 40],
+  "frames": [
+    {"beat": 20, "kind": "delta", "raw": "0a", "origin": "rig-07/run-004/B"},
+    {"beat": 40, "kind": "delta", "raw": "fd", "origin": "rig-07/run-004/C"}
+  ],
+  "content": {"previous_level": 250}
+}

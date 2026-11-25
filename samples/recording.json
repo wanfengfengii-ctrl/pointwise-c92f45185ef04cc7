@@ -1,0 +1,10 @@
+{
+  "recording_id": "rig07-run004",
+  "frames": [
+    {"beat": 10, "kind": "absolute", "raw": "fa", "origin": "rig-07/run-004/A"},
+    {"beat": 20, "kind": "delta", "raw": "0a", "origin": "rig-07/run-004/B"},
+    {"beat": 40, "kind": "delta", "raw": "fd", "origin": "rig-07/run-004/C"},
+    {"beat": 50, "kind": "absolute", "raw": "0a", "origin": "rig-07/run-004/D"},
+    {"beat": 70, "kind": "delta", "raw": "ec", "origin": "rig-07/run-004/E"}
+  ]
+}
